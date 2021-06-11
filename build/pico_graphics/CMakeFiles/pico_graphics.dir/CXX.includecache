@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/i/pico/rtc_psk_win2/src_v2/pico_graphics/font.hpp
+cstdint
+-
+
+/mnt/i/pico/rtc_psk_win2/src_v2/pico_graphics/font6_data.hpp
+font.hpp
+/mnt/i/pico/rtc_psk_win2/src_v2/pico_graphics/font.hpp
+
+/mnt/i/pico/rtc_psk_win2/src_v2/pico_graphics/font8_data.hpp
+font.hpp
+/mnt/i/pico/rtc_psk_win2/src_v2/pico_graphics/font.hpp
+
+/mnt/i/pico/rtc_psk_win2/src_v2/pico_graphics/pico_graphics.cpp
+pico_graphics.hpp
+/mnt/i/pico/rtc_psk_win2/src_v2/pico_graphics/pico_graphics.hpp
+
+/mnt/i/pico/rtc_psk_win2/src_v2/pico_graphics/pico_graphics.hpp
+string
+-
+cstdint
+-
+algorithm
+-
+vector
+-
+font6_data.hpp
+/mnt/i/pico/rtc_psk_win2/src_v2/pico_graphics/font6_data.hpp
+font8_data.hpp
+/mnt/i/pico/rtc_psk_win2/src_v2/pico_graphics/font8_data.hpp
+
+/mnt/i/pico/rtc_psk_win2/src_v2/pico_graphics/types.cpp
+cstdint
+-
+algorithm
+-
+pico_graphics.hpp
+/mnt/i/pico/rtc_psk_win2/src_v2/pico_graphics/pico_graphics.hpp
+

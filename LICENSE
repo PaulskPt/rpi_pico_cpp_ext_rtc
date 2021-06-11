@@ -1,10 +1,13 @@
 MIT License
 
-App uses:
+This repository contains and uses:
 a) RV-3028-C7 Arduino Library by Constantin Koch, July 25, 2019;
+b) pico_explorer driver library published by Pimoroni Ltd;
+c) pico_graphics driver library published by Pimoroni Ltd;
+d) st7789 driver library published by Pimoroni Ltd.
 
-
-Copyright (c) 2021 PaulskPt
+Rest of this project:
+Copyright (c) 2021 Paulus Schulinck (PaulskPt on GitHub or paulk on Discord)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
